@@ -20,8 +20,8 @@ This Python script analyzes server log files to extract valuable insights about 
 1. **Clone this repository** or **download** the Python script to your local machine.
 
 ```bash
-git clone <repository_url>
-cd <directory_name>
+git clone https://github.com/YachavarapuKarthik/log-analysis-script.git
+cd log-analysis-script
 ```
 
 2. **Install required dependencies** (if any). If not already installed, you may need to install the required libraries (like `re` and `csv`, which are part of Python's standard library).  
